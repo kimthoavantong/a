@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\cocos2d\external\Box2D\proj.win32\libbox2d.vcxproj' does not exist.
+  HelloWorldScene.cpp
+d:\ten\classes\helloworldscene.cpp(153): warning C4305: '=': truncation from 'double' to 'float'
+d:\ten\classes\helloworldscene.cpp(216): warning C4305: 'argument': truncation from 'double' to 'float'
+  ten.vcxproj -> D:\ten\proj.win32\Debug.win32\ten.exe
+  ten.vcxproj -> D:\ten\proj.win32\Debug.win32\ten.pdb (Full PDB)
+  0 File(s) copied
